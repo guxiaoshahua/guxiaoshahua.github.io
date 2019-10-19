@@ -184,9 +184,12 @@ input:focus, textarea:focus {
 —————————————————————————————————————————————————————————————————————— */
 
 .cover-image {
-	width: 100%;
+	width: 700px;
 	max-height: none;
 	object-fit: cover;
+	margin-left: auto; 
+    margin-right: auto; 
+    display: block;
 }
 
 .post-page h1 {
