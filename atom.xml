@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>_________</title>
+  <icon>http://yoursite.com/icon.png</icon>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-10-19T13:34:29.775Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>why fatal</title>
+    <link href="http://yoursite.com/2019/10/19/why-fatal/"/>
+    <id>http://yoursite.com/2019/10/19/why-fatal/</id>
+    <published>2019-10-19T13:09:59.000Z</published>
+    <updated>2019-10-19T13:34:29.775Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;…本来想写点最近随感结果bzdwhy一直不能新建文档折腾半天也没看懂然而突然谜之恢复了但是已经完全没心情写了不也&lt;/p&gt;
+
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="神秘" scheme="http://yoursite.com/tags/%E7%A5%9E%E7%A7%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>post?</title>
+    <link href="http://yoursite.com/2019/10/11/post/"/>
+    <id>http://yoursite.com/2019/10/11/post/</id>
+    <published>2019-10-11T19:55:53.000Z</published>
+    <updated>2019-10-13T11:08:48.898Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;饿饿饿饿饿饿&quot;&gt;&lt;a href=&quot;#饿饿饿饿饿饿&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="zero dark hundred" scheme="http://yoursite.com/tags/zero-dark-hundred/"/>
+    
+  </entry>
+  
+</feed>
